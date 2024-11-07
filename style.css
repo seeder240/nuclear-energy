@@ -149,4 +149,11 @@ body{
         	color: #1b1b1b;
         }
 
-        }
+        #allblocks{
+
+			min-height: auto;
+			max-height: fit-content;
+			max-width: fit-content;
+			min-width: auto;
+
+		}
